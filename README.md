@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @MartineSto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋🏼 Hi, I'm Martine!
+<p> Business Analytics Master's Student
+    
+    
+| Education                                      | University                         | Location                      |  Year of Completion                      |
+| ---------------------------------------------- |------------------------------------| ------------------------------| ------------------------|
+| Bachelor in HR and Management                  | Høyskolen Kristiania  University   |  Oslo (OSL), Norway           |  Jun 2020               |
+| Masters of Science in International Business   | Hult International Business School |  Boston (MA), United States   |  Aug 2021               |
+| Masters of Science in Business Analytics       | Hult International Business School |  Boston (MA), United States   |  Apr 2022               |
 
-<!---
-MartineSto/MartineSto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+        
+
+#  <b>Let's connect</b>
+
+  [<img  src="logo-linkedin-logo-icon-png-svg.png"  width="48"  height="48"  style="background-color:white;">][linkedin]
+  &nbsp;
+  [<img  src="Instagam.png" width="48" height="48"   style="background-color:white;">][instagram]
+  &nbsp;
+  [<img  src="tableau-logo.png" width="48" height="48"   style="background-color:white;">][tableau]
+  &nbsp;
+  [<img  src="gmail_logo.png" width="48" height="48"   style="background-color:white;">][gmail]
+  
+  [linkedin]:   https://www.linkedin.com/in/stojohansen/
+  [instagram]:  https://www.instagram.com/martinesto/
+  [tableau]:    https://public.tableau.com/app/profile/martine.elisabeth.st.johansen
+  [gmail]:      mailto:stojohansen@gmail.com
