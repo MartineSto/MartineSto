@@ -1,4 +1,4 @@
-#Hi, I'm Martine!
+# Hi, I'm Martine!
 <p> I am a Norwegian girl currently living in Cambridge, US, while pursuing my Master's of Science in Business Analytics
     
     
