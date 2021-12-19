@@ -1,5 +1,5 @@
 # 👋🏼 Hi, I'm Martine!
-<p> Norwegian living in Boston, US. Just completed my Master's of International Business (MIB), and currently pursuing a Master's of Science in Business Analytics
+<p> I am a Norwegian girl currently living in Cambridge, US, while pursuing my Master's of Science in Business Analytics
     
     
 | Education                                      | University                         | Location                      |  Year of Completion                      |
